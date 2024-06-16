@@ -1,4 +1,4 @@
-![Screenshot (96)](https://github.com/Alekrish-12/inventory-management-system/assets/170092296/ff654f59-6e97-4d3b-a558-7a9d90fe9227)#inventory-management-system
+# WINAIM-Backend Satabase ASSIGNMENT : inventory-management-system
 Creating a `README.md` file for an inventory management system assignment involves providing clear instructions, descriptions, and documentation to help users understand how to set up, use, and contribute to the project. Below is a basic template for your `README.md` file:
 
 ---
@@ -60,7 +60,7 @@ Make sure you have Node.js and MongoDB installed on your local machine.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/inventory-management-system.git
+   git clone [https://github.com//inventory-management-system](https://github.com/Alekrish-12/inventory-management-system).git
    ```
 2. Navigate into the project directory:
    ```bash
