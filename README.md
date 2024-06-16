@@ -1,4 +1,4 @@
-#inventory-management-system
+![Screenshot (96)](https://github.com/Alekrish-12/inventory-management-system/assets/170092296/ff654f59-6e97-4d3b-a558-7a9d90fe9227)#inventory-management-system
 Creating a `README.md` file for an inventory management system assignment involves providing clear instructions, descriptions, and documentation to help users understand how to set up, use, and contribute to the project. Below is a basic template for your `README.md` file:
 
 ---
@@ -74,12 +74,6 @@ Make sure you have Node.js and MongoDB installed on your local machine.
    npm install    # Install frontend dependencies
 
 
-![image](https://github.com/Alekrish-12/inventory-management-system/assets/170092296/64f667bc-a4d3-4af5-8fbd-65584dc94c2e)
-
-![Screenshot (84)](https://github.com/Alekrish-12/inventory-management-system/assets/170092296/28168416-9240-45ae-9376-d1e14c672789)
-
-
-
 ## Backend Setup
 
 1. Ensure MongoDB is running on your local machine.
@@ -106,7 +100,6 @@ The frontend should open automatically in your default browser at `http://localh
 
 
 
-
 ## Usage
 
 - Use the frontend interface (`http://localhost:3000`) to interact with the inventory management system.
@@ -121,6 +114,17 @@ Contributions are welcome! Here's how you can contribute:
 - Commit your changes (`git commit -am 'Add new feature'`)
 - Push to the branch (`git push origin feature`)
 - Create a new Pull Request
+
+
+
+![Uploading Screenshot (96).png…]()
+
+
+![image](https://github.com/Alekrish-12/inventory-management-system/assets/170092296/64f667bc-a4d3-4af5-8fbd-65584dc94c2e)
+
+
+![Screenshot (84)](https://github.com/Alekrish-12/inventory-management-system/assets/170092296/28168416-9240-45ae-9376-d1e14c672789)
+
 
 ## License
 
