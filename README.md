@@ -72,9 +72,11 @@ Make sure you have Node.js and MongoDB installed on your local machine.
    npm install    # Install backend dependencies
    cd ../frontend # Navigate to frontend directory
    npm install    # Install frontend dependencies
-   ```
-  ![Screenshot (84)](https://github.com/Alekrish-12/inventory-management-system/assets/170092296/28168416-9240-45ae-9376-d1e14c672789)
 
+
+![image](https://github.com/Alekrish-12/inventory-management-system/assets/170092296/64f667bc-a4d3-4af5-8fbd-65584dc94c2e)
+
+![Screenshot (84)](https://github.com/Alekrish-12/inventory-management-system/assets/170092296/28168416-9240-45ae-9376-d1e14c672789)
 
 
 
