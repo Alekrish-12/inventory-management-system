@@ -1,4 +1,4 @@
-# WINAIM-Backend Satabase ASSIGNMENT : inventory-management-system
+# WINAIM-Backend Database ASSIGNMENT : inventory-management-system
 Creating a `README.md` file for an inventory management system assignment involves providing clear instructions, descriptions, and documentation to help users understand how to set up, use, and contribute to the project. Below is a basic template for your `README.md` file:
 
 ---
