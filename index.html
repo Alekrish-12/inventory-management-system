@@ -1,16 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Inventory Management System</title>
-  <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inventory Management System</title>
+    <script>
+        async function fetchProducts() {
+            const response = await fetch('http://localhost:3000/products');
+            const products = await response.json();
+            console.log(products);
+        }
+
+        async function fetchSuppliers() {
+            const response = await fetch('http://localhost:3000/suppliers');
+            const suppliers = await response.json();
+            console.log(suppliers);
+        }
+
+        async function fetchWarehouses() {
+            const response = await fetch('http://localhost:3000/warehouses');
+            const warehouses = await response.json();
+            console.log(warehouses);
+        }
+
+        async function fetchStockLevels() {
+            const response = await fetch('http://localhost:3000/stock_levels');
+            const stockLevels = await response.json();
+            console.log(stockLevels);
+        }
+    </script>
 </head>
 <body>
-  <div id="app">
     <h1>Inventory Management System</h1>
-    <!-- Display products, suppliers, warehouses, stock levels here -->
-  </div>
-  <script src="app.js"></script>
+    <button onclick="fetchProducts()">Fetch Products</button>
+    <button onclick="fetchSuppliers()">Fetch Suppliers</button>
+    <button onclick="fetchWarehouses()">Fetch Warehouses</button>
+    <button onclick="fetchStockLevels()">Fetch Stock Levels</button>
 </body>
 </html>
