@@ -73,6 +73,11 @@ Make sure you have Node.js and MongoDB installed on your local machine.
    cd ../frontend # Navigate to frontend directory
    npm install    # Install frontend dependencies
    ```
+   ![](docs/util/1.gif)
+
+   ![](docs/util/7.gif)
+
+   ![](docs/util/9.gif)
 
 ## Backend Setup
 
