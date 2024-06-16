@@ -115,8 +115,11 @@ Contributions are welcome! Here's how you can contribute:
 - Push to the branch (`git push origin feature`)
 - Create a new Pull Request
 
-![Screenshot (85)](https://github.com/Alekrish-12/inventory-management-system/assets/170092296/ce2c4279-d1d0-4ec9-b0d0-eb73808449b3)
+![Screenshot (98)](https://github.com/Alekrish-12/inventory-management-system/assets/170092296/20bb616e-489f-4ff8-8bce-3f104dbc8085)
 
+
+
+![Screenshot (97)](https://github.com/Alekrish-12/inventory-management-system/assets/170092296/076e2538-9174-4cef-92c6-7485bf371bea)
 
 
 ![Uploading Screenshot (96).png…]()
