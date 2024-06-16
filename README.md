@@ -73,11 +73,10 @@ Make sure you have Node.js and MongoDB installed on your local machine.
    cd ../frontend # Navigate to frontend directory
    npm install    # Install frontend dependencies
    ```
-   ![](docs/util/1.gif)
+  ![Screenshot (84)](https://github.com/Alekrish-12/inventory-management-system/assets/170092296/28168416-9240-45ae-9376-d1e14c672789)
 
-   ![](docs/util/7.gif)
+![Screenshot (84)](https://github.com/Alekrish-12/inventory-management-system/assets/170092296/f203c513-8158-4423-a4cf-2941d5ccd9b8)
 
-   ![](docs/util/9.gif)
 
 ## Backend Setup
 
@@ -91,6 +90,8 @@ Make sure you have Node.js and MongoDB installed on your local machine.
 
 The backend server should now be running on `http://localhost:5000`.
 
+![Screenshot (87)](https://github.com/Alekrish-12/inventory-management-system/assets/170092296/6937a71c-041a-47a3-9756-38894f1f7db5)
+
 ## Frontend Setup
 
 1. Start the frontend development server:
@@ -100,6 +101,11 @@ The backend server should now be running on `http://localhost:5000`.
    ```
 
 The frontend should open automatically in your default browser at `http://localhost:3000`.
+
+
+![Screenshot (84)](https://github.com/Alekrish-12/inventory-management-system/assets/170092296/96139fb2-af3f-44b6-b04d-fe0fc754cc09)
+
+![Screenshot (86)](https://github.com/Alekrish-12/inventory-management-system/assets/170092296/554fbfa9-7ac6-45e7-a958-5ba77a8c8713)
 
 ## Usage
 
